@@ -1,0 +1,14 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\bin\x64\Release\DisplayDisable.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\bin\x64\Release\DisplayDisable.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\bin\x64\Release\DisableDevice.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\obj\x64\Release\DisplayDisable.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\obj\x64\Release\DisplayDisable.pdb
+E:\_R&D\SWE\Custom Programs\C#_Projects\DisplayDisable\DisplayDisable\obj\x64\Release\DisplayDisable.exe
+E:\_R&D\SWE\Custom Programs\C#_Projects\DisplayDisable\DisplayDisable\obj\x64\Release\DisplayDisable.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\DisplayDisable\DisplayDisable\obj\x64\Release\DisplayDisable.exe
+F:\_R&D\SWE\Custom Programs\_ForGit\DisplayDisable\DisplayDisable\obj\x64\Release\DisplayDisable.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\DisplayDisable\DisplayDisable\bin\x64\Release\DisplayDisable.exe
+F:\_R&D\SWE\Custom Programs\_ForGit\DisplayDisable\DisplayDisable\bin\x64\Release\DisplayDisable.pdb
+F:\_R&D\SWE\Custom Programs\_ForGit\DisplayDisable\DisplayDisable\bin\x64\Release\DisableDevice.dll
+F:\_R&D\SWE\Custom Programs\_ForGit\DisplayDisable\DisplayDisable\obj\x64\Release\ResolveAssemblyReference.cache

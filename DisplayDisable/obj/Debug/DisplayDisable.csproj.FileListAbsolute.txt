@@ -1,0 +1,6 @@
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\bin\Debug\DisplayDisable.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\bin\Debug\DisplayDisable.pdb
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\bin\Debug\DisableDevice.dll
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\obj\Debug\DisplayDisable.exe
+C:\Users\archangel\Documents\Visual Studio 2008\Projects\DisplayDisable\DisplayDisable\obj\Debug\DisplayDisable.pdb
